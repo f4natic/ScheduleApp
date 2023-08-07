@@ -1,6 +1,6 @@
-package ru.f4n.app.utils;
+package example.org.utils;
 
-import ru.f4n.app.models.User;
+import example.org.models.User;
 
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;

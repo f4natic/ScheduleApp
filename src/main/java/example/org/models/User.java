@@ -1,6 +1,6 @@
-package ru.f4n.app.models;
+package example.org.models;
 
-import ru.f4n.app.utils.DateFormatUtils;
+import example.org.utils.DateFormatUtils;
 
 import java.util.Date;
 

@@ -1,8 +1,6 @@
-package ru.f4n.app;
+package example.org;
 
-import ru.f4n.app.frame.AppFrame;
-import ru.f4n.app.models.User;
-import ru.f4n.app.utils.DateFormatUtils;
+import example.org.frame.AppFrame;
 
 import java.io.IOException;
 import java.nio.file.Files;

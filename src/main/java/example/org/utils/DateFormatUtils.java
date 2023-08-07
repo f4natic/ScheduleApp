@@ -1,4 +1,4 @@
-package ru.f4n.app.utils;
+package example.org.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

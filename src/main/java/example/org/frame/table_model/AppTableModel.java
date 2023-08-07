@@ -1,7 +1,7 @@
-package ru.f4n.app.frame.table_model;
+package example.org.frame.table_model;
 
-import ru.f4n.app.models.User;
-import ru.f4n.app.utils.DateFormatUtils;
+import example.org.models.User;
+import example.org.utils.DateFormatUtils;
 
 import javax.swing.table.AbstractTableModel;
 import java.util.List;

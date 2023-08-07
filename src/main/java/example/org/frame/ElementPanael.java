@@ -1,9 +1,9 @@
-package ru.f4n.app.frame;
+package example.org.frame;
 
-import ru.f4n.app.frame.table_model.AppTableModel;
-import ru.f4n.app.models.User;
-import ru.f4n.app.utils.FileLoader;
-import ru.f4n.app.utils.FileWritter;
+import example.org.frame.table_model.AppTableModel;
+import example.org.models.User;
+import example.org.utils.FileLoader;
+import example.org.utils.FileWritter;
 
 import javax.swing.*;
 import javax.swing.table.TableCellEditor;
